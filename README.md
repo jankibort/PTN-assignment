@@ -2,6 +2,7 @@ START PROJECT USING VIRTUAL ENVIRONMENT:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - pip install virtualenvwrapper-win (on windows)
 - mkvirtualnenv ptn-projekt
+- mkvirtualenv activate
 - pip install -r requirements.txt
 - manage.py runserver
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
